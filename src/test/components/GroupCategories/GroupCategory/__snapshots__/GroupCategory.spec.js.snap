@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GroupCategory component should render with given state from Redux store 1`] = `
+<div
+  className="sc-AxjAm hemMAk"
+  onClick={[Function]}
+>
+  Artist
+</div>
+`;

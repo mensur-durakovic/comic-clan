@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Back component 1`] = `
+<div
+  className="sc-AxjAm ebRsjh"
+>
+  <span
+    className="sc-AxirZ fwUwCO"
+  />
+  <span
+    className="sc-AxiKw ibpvHa"
+    onClick={[Function]}
+  >
+     
+    test
+     
+  </span>
+</div>
+`;

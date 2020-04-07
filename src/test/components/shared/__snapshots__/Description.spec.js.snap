@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Description component 1`] = `
+<div
+  className="sc-AxjAm fiYXvS"
+>
+  <span
+    className="sc-AxirZ gnUxoK"
+  >
+    test
+    : 
+  </span>
+  <span
+    className="sc-AxiKw enTNPh"
+  >
+     
+    test
+     
+  </span>
+</div>
+`;

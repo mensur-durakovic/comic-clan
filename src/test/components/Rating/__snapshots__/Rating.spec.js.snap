@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Rating component 1`] = `
+<div
+  className="sc-AxjAm fCkbWQ"
+>
+  <div
+    className="sc-AxirZ sc-AxiKw iChZue"
+  />
+  <div
+    className="sc-AxirZ sc-AxiKw iChZue"
+  />
+  <div
+    className="sc-AxirZ sc-AxiKw iChZue"
+  />
+  <div
+    className="sc-AxirZ sc-AxiKw iChZue"
+  />
+  <div
+    className="sc-AxirZ sc-AxhCb uDmwg"
+  />
+</div>
+`;

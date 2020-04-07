@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TitleRating component 1`] = `
+<div
+  className="sc-AxhUy eCJffQ"
+>
+  <div
+    className="sc-AxgMl fCrwUY"
+  >
+    test
+     (2020)
+  </div>
+  <div
+    className="sc-AxjAm fCkbWQ"
+  >
+    <div
+      className="sc-AxirZ sc-AxiKw iChZue"
+    />
+    <div
+      className="sc-AxirZ sc-AxiKw iChZue"
+    />
+    <div
+      className="sc-AxirZ sc-AxiKw iChZue"
+    />
+    <div
+      className="sc-AxirZ sc-AxiKw iChZue"
+    />
+    <div
+      className="sc-AxirZ sc-AxiKw iChZue"
+    />
+  </div>
+</div>
+`;

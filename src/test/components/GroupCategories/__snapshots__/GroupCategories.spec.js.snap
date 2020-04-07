@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GroupCategories component should render with given state from Redux store 1`] = `
+<div
+  className="sc-AxirZ gOmwfh"
+>
+  <div
+    className="sc-AxjAm gUnyex"
+    onClick={[Function]}
+  >
+    Year
+  </div>
+  <div
+    className="sc-AxjAm hemMAk"
+    onClick={[Function]}
+  >
+    Writer
+  </div>
+  <div
+    className="sc-AxjAm hemMAk"
+    onClick={[Function]}
+  >
+    Artist
+  </div>
+  <div
+    className="sc-AxjAm hemMAk"
+    onClick={[Function]}
+  >
+    Owner
+  </div>
+  <div
+    className="sc-AxjAm hemMAk"
+    onClick={[Function]}
+  >
+    Random
+  </div>
+</div>
+`;
